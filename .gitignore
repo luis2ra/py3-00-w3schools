@@ -2,3 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Configuration Folder of Work Enviroment
+.vscode/
