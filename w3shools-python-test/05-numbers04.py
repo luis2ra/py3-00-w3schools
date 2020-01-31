@@ -1,4 +1,4 @@
-# Demo Python Numbers - Int
+# Demo Python Numbers - Complex
 '''
 There are three numeric types in Python:
 
@@ -12,11 +12,11 @@ To verify the type of any object in Python, use the type() function.
 
 '''
 
-# Int, or integer, is a whole number, positive or negative, without decimals, of unlimited length.
+# Complex numbers are written with a "j" as the imaginary part:
 
-x = 1
-y = 35656222554887711
-z = -3255522
+x = 3+5j
+y = 5j
+z = -5j
 
 print(type(x))
 print(type(y))

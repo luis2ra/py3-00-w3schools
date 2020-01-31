@@ -13,13 +13,13 @@ float() - constructs a float number from an integer literal, a float literal or 
 str() - constructs a string from a wide variety of data types, including strings, integer literals and float literals
 '''
 
-# Integers:
-x = int(1)   # x will be 1
-y = int(2.9) # y will be 2
-y1 = int(2.2) # y will be 2
-z = int("3") # z will be 3
+# Floats:
+x = float(1)     # x will be 1.0
+y = float(2.8)   # y will be 2.8
+z = float("3")   # z will be 3.0
+w = float("4.2") # w will be 4.2
 
 print(x)
 print(y)
-print(y1)
 print(z)
+print(w)

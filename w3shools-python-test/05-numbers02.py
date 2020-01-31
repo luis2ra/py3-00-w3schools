@@ -1,4 +1,4 @@
-# Demo Python Numbers - Int
+# Demo Python Numbers - Float
 '''
 There are three numeric types in Python:
 
@@ -12,11 +12,11 @@ To verify the type of any object in Python, use the type() function.
 
 '''
 
-# Int, or integer, is a whole number, positive or negative, without decimals, of unlimited length.
+# Float, or "floating point number" is a number, positive or negative, containing one or more decimals.
 
-x = 1
-y = 35656222554887711
-z = -3255522
+x = 1.10
+y = 1.0
+z = -35.59
 
 print(type(x))
 print(type(y))
