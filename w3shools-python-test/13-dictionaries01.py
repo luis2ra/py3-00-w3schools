@@ -1,4 +1,4 @@
-# Demo Python Dictionaries
+# Demo Python Dictionaries - Dictionary
 '''
 Dictionary
 A dictionary is a collection which is unordered, changeable and indexed. In Python dictionaries are written with curly brackets, and they have keys and values.
@@ -45,3 +45,11 @@ update()	    Updates the dictionary with the specified key-value pairs
 values()	    Returns a list of all the values in the dictionary
 
 '''
+
+# Create and print a dictionary:
+thisdict =	{
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 1964
+}
+print(thisdict)

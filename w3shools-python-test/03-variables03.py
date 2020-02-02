@@ -9,5 +9,5 @@ Unlike other programming languages, Python has no command for declaring a variab
 x = "John"
 print(x)
 #double quotes are the same as single quotes:
-x = 'John'
-print(x)
+y = 'John'
+print(y)
