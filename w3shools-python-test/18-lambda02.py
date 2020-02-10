@@ -15,6 +15,6 @@ The expression is executed and the result is returned:
 
 '''
 
-# A lambda function that adds 10 to the number passed in as an argument, and print the result:
-x = lambda a: a + 10
-print(x(5))
+# Lambda functions can take any number of arguments:
+x = lambda a, b : a * b
+print(x(5, 6)) 

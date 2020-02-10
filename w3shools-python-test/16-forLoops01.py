@@ -16,4 +16,11 @@ This is less like the for keyword in other programming languages, and works more
 
 With the for loop we can execute a set of statements, once for each item in a list, tuple, set etc.
 
+The for loop does not require an indexing variable to set beforehand.
+
 '''
+
+# Print each fruit in a fruit list:
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+    print(x)

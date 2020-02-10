@@ -21,3 +21,7 @@ The solution is an array!
 An array can hold many values under a single name, and you can access the values by referring to an index number.
 
 '''
+# Create an array containing car names:
+cars = ["Ford", "Volvo", "BMW"]
+
+print(cars)
