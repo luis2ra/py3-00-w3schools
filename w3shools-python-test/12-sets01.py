@@ -4,6 +4,7 @@ Set
 
 A set is a collection which is unordered and unindexed. In Python sets are written with curly brackets.
 
+Note: Sets are unordered, so you cannot be sure in which order the items will appear.
 
 Set Methods
 Python has a set of built-in methods that you can use on sets.
@@ -27,3 +28,7 @@ union()	      Return a set containing the union of sets
 update()	    Update the set with the union of this set and others
 
 '''
+
+# Create a Set:
+thisset = {"apple", "banana", "cherry"}
+print(thisset) 

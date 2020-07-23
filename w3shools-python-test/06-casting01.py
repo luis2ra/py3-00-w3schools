@@ -14,10 +14,10 @@ str() - constructs a string from a wide variety of data types, including strings
 '''
 
 # Integers:
-x = int(1)   # x will be 1
-y = int(2.9) # y will be 2
-y1 = int(2.2) # y will be 2
-z = int("3") # z will be 3
+x = int(1)      # x will be 1
+y = int(2.9)    # y will be 2
+y1 = int(2.2)   # y will be 2
+z = int("3")    # z will be 3
 
 print(x)
 print(y)

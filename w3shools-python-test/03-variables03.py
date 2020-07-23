@@ -8,6 +8,7 @@ Unlike other programming languages, Python has no command for declaring a variab
 # String variables can be declared either by using single or double quotes:
 x = "John"
 print(x)
-#double quotes are the same as single quotes:
+
+# double quotes are the same as single quotes:
 y = 'John'
 print(y)

@@ -17,4 +17,12 @@ Global Keyword
 
 If you need to create a global variable, but are stuck in the local scope, you can use the global keyword.
 The global keyword makes the variable global.
+
 '''
+
+# A variable created inside a function is available inside that function:
+def myfunc():
+    x = 300
+    print(x)
+
+myfunc()
