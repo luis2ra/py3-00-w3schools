@@ -14,6 +14,8 @@ thisdict =	{
     "model": "LAND CRUISER",
     "year": 2020
 }
+
+print(thisdict)
 for x in thisdict:
     print(x)
 

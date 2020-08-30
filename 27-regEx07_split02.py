@@ -16,3 +16,10 @@ import re
 txt = "The rain in Spain"
 x = re.split("\s", txt, 1)
 print(x)
+
+txt2 = "invoices/pdf/R-20605469958-03-B001-104.zip"
+y = re.split("\-", txt2, 3)
+print(y[3])
+res = re.split("\.", y[3], 1)
+print(res[0])
+print('------------------------------------------')

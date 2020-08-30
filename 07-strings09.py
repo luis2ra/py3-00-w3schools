@@ -8,12 +8,12 @@ To check if a certain phrase or character is present in a string, we can use the
 
 # Check if the phrase "ain" is present in the following text:
 txt = "The rain in Spain stays mainly in the plain"
-print("string orinal: ", txt)
+print("string original: ", txt)
 x = "ain" in txt
 print(x)
 
 # Check if the phrase "ain" is NOT present in the following text:
 txt = "The rain in Spain stays mainly in the plain"
-print("string orinal: ", txt)
+print("string original: ", txt)
 x = "ain" not in txt
 print(x)   

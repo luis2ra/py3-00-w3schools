@@ -12,5 +12,5 @@ thisdict =	{
     "model": "LAND CRUISER",
     "year": 2020
 }
-x = thisdict.get("model")
-print(x)
+thisdict["year"]=2018
+print(thisdict)
