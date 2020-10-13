@@ -23,3 +23,10 @@ print(y[3])
 res = re.split("\.", y[3], 1)
 print(res[0])
 print('------------------------------------------')
+
+txt3= "/usr/src/app/config"
+
+y = re.split("\/", txt3, 1)
+z = re.search("\", txt3)
+print(y)
+print("The first character is located in position:", z.start())
