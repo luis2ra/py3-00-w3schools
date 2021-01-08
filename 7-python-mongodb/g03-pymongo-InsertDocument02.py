@@ -15,7 +15,7 @@ myclient = pymongo.MongoClient('mongodb://localhost:27017/')
 mydb = myclient['w3schools-myDatabase']
 mycollection = mydb["customers"]
 
-mydict = { "name": "Peter", "address": "Lowstreet 27" }
+mydict = { "name": "Dayana Saray", "address": "Houston, Texas" }
 
 x = mycollection.insert_one(mydict)
 

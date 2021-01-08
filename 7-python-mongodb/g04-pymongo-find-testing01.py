@@ -1,5 +1,5 @@
 import pymongo
-from files.phone import Phone
+#from files.phone import Phone
 
 myclient = pymongo.MongoClient('mongodb://localhost:27017/')
 mydb = myclient['movatec_system']
