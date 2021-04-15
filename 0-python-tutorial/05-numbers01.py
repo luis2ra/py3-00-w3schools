@@ -1,4 +1,4 @@
-# Demo Python Numbers - Int
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_numbers.asp
 '''
 Python Numbers
 

@@ -1,5 +1,7 @@
-# Demo Python Data Types - Getting the Data Type
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_datatypes.asp
 '''
+Python Data Types
+
 Built-in Data Types
 
 In programming, data type is an important concept.

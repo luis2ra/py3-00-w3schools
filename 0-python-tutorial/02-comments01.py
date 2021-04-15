@@ -1,6 +1,7 @@
-# Demo Python Comments
-
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_comments.asp
 '''
+Python Comments
+
 Comments can be used to explain Python code.
 
 Comments can be used to make the code more readable.

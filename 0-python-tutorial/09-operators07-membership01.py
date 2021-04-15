@@ -15,3 +15,8 @@ not in 	    Returns True if a sequence with the specified               x not in
 x = ["apple", "banana"]
 
 print("banana" in x)            # returns True because a sequence with the value "banana" is in the list
+
+
+y = ["0", "1"]
+
+print("1" in y) 

@@ -1,4 +1,4 @@
-# @author: https://github.com/luis2ra
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/default.asp
 '''
 What is Python?
 
@@ -44,4 +44,5 @@ Python Syntax compared to other programming languages
 * Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
 
 '''
+
 print("Hello, World!!!")

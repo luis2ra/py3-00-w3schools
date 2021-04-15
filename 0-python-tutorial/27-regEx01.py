@@ -35,9 +35,9 @@ import re
 
 # Check if the string starts with "The" and ends with "Spain":
 
-txt = "The rain in Spain"
+txt = "The rain in Spainnn"
 x = re.search("^The.*Spain$", txt)
-
+print('valor que tiene la busqueda:', x)
 if (x):
     print("YES! We have a match!")
 else:
