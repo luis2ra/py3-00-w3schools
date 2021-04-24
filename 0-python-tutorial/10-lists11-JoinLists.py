@@ -1,10 +1,5 @@
-# Demo Python Lists
+# Demo Join Lists
 '''
-List
-
-A list is a collection which is ordered and changeable. In Python lists are written with square brackets.
-
-
 Join Two Lists
 
 There are several ways to join, or concatenate, two or more lists in Python.
@@ -26,7 +21,7 @@ list_join = list1 + list2
 print(list_join) 
 
 
-# Append list2 into list1:
+# Append list4 into list3:
 list3 = ["d", "e", "f"]
 print(list3) 
 list4 = [4, 5, 6]
@@ -37,7 +32,7 @@ for x in list4:
 print(list3) 
 
 
-# Use the extend() method to add list2 at the end of list1:
+# Use the extend() method to add list6 at the end of list5:
 list5 = ["x", "y", "z"]
 print(list5) 
 list6 = [7, 8, 9]
