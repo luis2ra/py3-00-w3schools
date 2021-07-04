@@ -18,4 +18,3 @@ reverse()	Reverses the order of the list
 sort()		Sorts the list
 
 '''
-print('pendiente por realizar ejercicios de métodos de listas que no se hayan utilizado...')

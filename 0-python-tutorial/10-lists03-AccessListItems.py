@@ -1,4 +1,4 @@
-# Demo Python Lists
+# Demo Access List Items
 '''
 List
 
