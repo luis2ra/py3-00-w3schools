@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_syntax.asp
+
 # Demo Python Comments
 '''
 Python has commenting capability for the purpose of in-code documentation.
