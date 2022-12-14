@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_variables_multiple.asp
+
 # Demo python variables - Assign Multiple Values
 '''
 Unpack a Collection

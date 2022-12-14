@@ -1,15 +1,17 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_variables_output.asp
+
 # Demo python variables - Output Variables
 '''
 Output Variables
 
-The Python print statement is often used to output variables.
+The python print() function is often used to output variables.
 
-You can also use the + character to add a variable to another variable.
+In the print() function, you can have output multiple variables, separated by a comma.
 
 '''
 
-# You can also use the + character to add a variable to another variable.
-x = "Python is "
-y = "awesome"
-z =  x + y
-print(z)
+# You can have output multiple variables, separated by a comma.
+x = "Python"
+y = "is"
+z = "awesome"
+print(x, y, z)  # The output is "Python is awesome"

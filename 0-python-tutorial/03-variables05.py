@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_variables.asp
+
 # Demo python variables - Single or Double Quotes?
 '''
 Single or Double Quotes?

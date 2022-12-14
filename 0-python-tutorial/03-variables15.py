@@ -1,14 +1,23 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_variables_output.asp
+
 # Demo python variables - Output Variables
 '''
 Output Variables
 
-The Python print statement is often used to output variables.
+The python print() function is often used to output variables.
 
-If you try to combine a string and a number, Python will give you an error.
+In the print() function, when you try to combine a string and a number with the + operator, Python will give you an error.
+
+The best way to output multiple variables in the print() function is to separate them with commas, which even support different data types.
 
 '''
 
-# If you try to combine a string and a number, Python will give you an error:
+# When you try to combine a string and a number with the + operator, Python will give you an error:
 x = 5
 y = "Luis"
-print(x + y)
+# print(x + y)  # This showed a TypeError
+
+# The best way to output multiple variables in the print() function is to separate them with commas, which even support different data types:
+p = 7
+q = "Alfonso"
+print(p, q)

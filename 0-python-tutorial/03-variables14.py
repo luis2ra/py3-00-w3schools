@@ -1,14 +1,24 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_variables_output.asp
+
 # Demo python variables - Output Variables
 '''
 Output Variables
 
-The Python print statement is often used to output variables.
+The python print() function is often used to output variables.
 
-For numbers, the + character works as a mathematical operator.
+You can also use the + operator to output multiple variables.
+
+However, for numbers the + character works as a mathematical operator.
 
 '''
 
+# You can also use the + operator to output multiple variables.
+x = "Python"
+y = "is"
+z = "awesome"
+print(x + y + z)  # The output is "Pythonisawesome"
+
 # For numbers, the + character works as a mathematical operator:
-x = 5
-y = 10
-print(x + y)
+p = 5
+q = 10
+print(p + q)  # The output is 15

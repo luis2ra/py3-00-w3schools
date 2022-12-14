@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_comments.asp
+
 # Demo Python Comments
 
 # Since Python will ignore string literals that are not assigned to a variable, 
@@ -8,4 +10,4 @@ This is a comment
 written in
 more than just one line
 """
-print("Hello, World!") 
+print("Hello, World!")

@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_variables_global.asp
+
 # Demo python variables - The global Keyword
 '''
 The global Keyword
@@ -17,4 +19,4 @@ def myfunc():
 
 myfunc()
 
-print("Python is " + x) 
+print("Python is " + x)
