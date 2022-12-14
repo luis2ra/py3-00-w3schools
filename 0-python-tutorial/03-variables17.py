@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_variables_global.asp
+
 # Demo python variables - Global Variables
 '''
 Global Variables
@@ -11,7 +13,8 @@ can only be used inside the function. The global variable with the same name wil
 global and with the original value.
 
 '''
-# Create a variable inside a function, with the same name as the global variable
+
+# Create a variable inside a function, with the same name as the global variable:
 x = "awesome"
 
 def myfunc():
