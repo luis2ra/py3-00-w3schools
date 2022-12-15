@@ -1,20 +1,14 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_numbers.asp
+
 # Demo Python Numbers - Float
 '''
-Python Numbers
+Python Numbers - Float
 
+Float, or "floating point number" is a number, positive or negative, containing one or more decimals.
 
-There are three numeric types in Python:
-
-* int
-* float
-* complex
-
-Variables of numeric types are created when you assign a value to them.
-
-To verify the type of any object in Python, use the type() function.
+Float can also be scientific numbers with an "e" to indicate the power of 10.
 
 '''
-# Float can also be scientific numbers with an "e" to indicate the power of 10.
 
 x = 35e3
 y = 12E4

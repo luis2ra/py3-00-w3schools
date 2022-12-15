@@ -1,8 +1,11 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_numbers.asp
+
 # Demo Python Numbers - Random Number
 '''
-Random Number
+Python Numbers - Random Number
 
-Python does not have a random() function to make a random number, but Python has a built-in module called random that can be used to make random numbers.
+Python does not have a random() function to make a random number, but 
+Python has a built-in module called random that can be used to make random numbers.
 
 '''
 # Import the random module, and display a random number between 1 and 9:

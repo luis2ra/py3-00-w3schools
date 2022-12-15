@@ -1,6 +1,8 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_numbers.asp
+
 # Demo Python Numbers - Type Conversion
 '''
-Type Conversion
+Python Numbers - Type Conversion
 
 You can convert from one type to another with the int(), float(), and complex() methods.
 
@@ -11,16 +13,16 @@ x = 1   # int
 y = 2.8 # float
 z = 1j  # complex
 
-#convert from int to float:
+# convert from int to float:
 a = float(x)
 
-#convert from float to int:
+# convert from float to int:
 b = int(y)
 
-#convert from int to complex:
+# convert from int to complex:
 c = complex(x)
 
-#convert from float to complex:
+# convert from float to complex:
 d = complex(y)
 
 print(a)
