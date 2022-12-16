@@ -1,6 +1,8 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_operators.asp
+
 # Demo Python Operators
 '''
-Python Bitwise Operators
+Python Operators - Python Bitwise Operators
 
 Bitwise operators are used to compare (binary) numbers:
 

@@ -1,6 +1,8 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_operators.asp
+
 # Demo Python Operators
 '''
-Python Bitwise Operators
+Python Operators - Python Bitwise Operators
 
 ~  	        NOT 	                Inverts all the bits
 
@@ -20,5 +22,3 @@ print("Procesando '~b': ", variable2, "Resultado en binario: ", format(variable2
 print("Procesando 'a & b': ", a&b, "Resultado en binario: ", format(a&b, 'b'))
 print("Procesando 'a | b': ", a|b, "Resultado en binario: ", format(a|b, 'b'))
 print("Procesando 'a ^ b': ", a^b, "Resultado en binario: ", format(a^b, 'b'))
-
-

@@ -1,6 +1,8 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_operators.asp
+
 # Demo Python Operators
 '''
-Python Membership Operators
+Python Operators - Python Membership Operators
 
 Membership operators are used to test if a sequence is presented in an object:
 

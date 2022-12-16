@@ -1,6 +1,8 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_operators.asp
+
 # Demo Python Operators
 '''
-Python Arithmetic Operators
+Python Operators - Python Arithmetic Operators
 
 Arithmetic operators are used with numeric values to perform common mathematical operations:
 
@@ -41,4 +43,13 @@ print(x ** y)
 # Floor division
 print(x // y)      # the floor division // rounds the result down to the nearest whole number
 print(x // z)
-print( (x * y) // z )     
+print( (x * y) // z )
+
+p = 10
+q = 3
+print(p / q)
+print(p % q)    # resto de la division
+print(p // q)   # parte entera de la division
+print(type(p / q))
+print(type(p % q))  
+print(type(p // q))

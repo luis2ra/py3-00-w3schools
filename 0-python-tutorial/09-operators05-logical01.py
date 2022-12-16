@@ -1,6 +1,8 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_operators.asp
+
 # Demo Python Operators
 '''
-Python Logical Operators
+Python Operators - Python Logical Operators
 
 Logical operators are used to combine conditional statements:
 
