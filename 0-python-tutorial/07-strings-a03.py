@@ -1,5 +1,10 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_strings.asp
+
 # Demo Python Strings - Multiline Strings
 '''
+Python Strings - Strings
+
+
 Multiline Strings
 
 You can assign a multiline string to a variable by using three quotes.
@@ -23,4 +28,4 @@ Lorem ipsum dolor sit amet,
 consectetur adipiscing elit,
 sed do eiusmod tempor incididunt
 ut labore et dolore magna aliqua.'''
-print(b) 
+print(b)

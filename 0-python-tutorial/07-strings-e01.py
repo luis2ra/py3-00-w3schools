@@ -1,5 +1,10 @@
-# Demo Python Strings - String Format
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_strings_format.asp
+
+# Demo Python Strings - Strings Format
 '''
+Python Strings - Strings Format
+
+
 String Format
 
 As we learned in the Python Variables chapter, we cannot combine strings and numbers like this:
@@ -34,5 +39,3 @@ itemno = 567
 price = 49.95
 myorder = "I want to pay {2} dollars for {0} pieces of item {1}."
 print(myorder.format(quantity, itemno, price))
-
-

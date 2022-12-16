@@ -1,6 +1,8 @@
-# Demo Python Strings - String Literals
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_strings.asp
+
+# Demo Python Strings - String
 '''
-Python Strings
+Python Strings - Strings
 
 
 Strings

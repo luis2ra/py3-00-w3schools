@@ -1,5 +1,10 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_strings.asp
+
 # Demo Python Strings - Strings are Arrays
 '''
+Python Strings - Strings
+
+
 Strings are Arrays
 
 Like many other popular programming languages, strings in Python are arrays of bytes representing unicode characters.

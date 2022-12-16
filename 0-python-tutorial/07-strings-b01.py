@@ -1,5 +1,10 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_strings_slicing.asp
+
 # Demo Python Strings - Slicing Strings
 '''
+Python Strings - Slicing Strings
+
+
 Slicing
 
 You can return a range of characters by using the slice syntax.

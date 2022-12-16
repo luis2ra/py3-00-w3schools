@@ -1,5 +1,10 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_strings_escape.asp
+
 # Demo Python Strings - Escape Character
 '''
+Python Strings - Escape Characters
+
+
 Escape Character
 
 To insert characters that are illegal in a string, use an escape character.
@@ -40,15 +45,15 @@ txt6 = "Hello\tWorld!"
 print(txt6) 
 
 # Example of Backspace
-txt7 = "Hello \bWorld!"     # This example erases one character (backspace)
+txt7 = "Hello \bWorld!"  # This example erases one character (backspace)
 print(txt7) 
 
 # Example of Octal value
-txt8 = "\110\145\154\154\157"    # A backslash followed by three integers will result in a octal value
+txt8 = "\110\145\154\154\157"  # A backslash followed by three integers will result in a octal value
 print('Example of Octal value:')
 print(txt8) 
 
 # Example of Hex value
-txt9 = "\x48\x65\x6c\x6c\x6f"    # A backslash followed by an 'x' and a hex number represents a hex value
+txt9 = "\x48\x65\x6c\x6c\x6f"  # A backslash followed by an 'x' and a hex number represents a hex value
 print('Example of Hex value:')
 print(txt9)
