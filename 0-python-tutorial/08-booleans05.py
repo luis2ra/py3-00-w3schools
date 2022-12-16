@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_booleans.asp
+
 # Demo Python Booleans - Most Values are True
 '''
 Most Values are True

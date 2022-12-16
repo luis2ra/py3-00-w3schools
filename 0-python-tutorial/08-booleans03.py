@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_booleans.asp
+
 # Demo Python Booleans - Evaluate Values and Variables
 '''
 Evaluate Values and Variables
