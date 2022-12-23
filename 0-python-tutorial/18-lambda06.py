@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_lambda.asp
+
 # Demo Python Lambda - Why Use Lambda Functions?
 '''
 Why Use Lambda Functions? - Part 3

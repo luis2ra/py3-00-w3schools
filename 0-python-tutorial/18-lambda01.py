@@ -1,5 +1,10 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_lambda.asp
+
 # Demo Python Lambda
 '''
+Python Lambda - Python Lambda
+
+
 Python Lambda
 
 A lambda function is a small anonymous function.
@@ -14,7 +19,6 @@ Syntax
 The expression is executed and the result is returned:
 
 '''
-
-# A lambda function that adds 10 to the number passed in as an argument, and print the result:
+# Add 10 to argument a, and return the result:
 x = lambda a: a + 10
 print(x(5))

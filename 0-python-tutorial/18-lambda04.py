@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_lambda.asp
+
 # Demo Python Lambda - Why Use Lambda Functions?
 '''
 Why Use Lambda Functions? - Part 1
@@ -9,11 +11,8 @@ Say you have a function definition that takes one argument, and that argument wi
 def myfunc(n):
     return lambda a : a * n
 
-Use that function definition to make a function that always doubles the number you send in.
-
 '''
-
-# A lambda function that sums argument a, b, and c and print the result:
+# Use that function definition to make a function that always doubles the number you send in:
 def myfunc(n):
     return lambda a : a * n
 
