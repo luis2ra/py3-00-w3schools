@@ -1,5 +1,10 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_iterators.asp
+
 # Demo Python Iterators
 '''
+Python Iterators - Python Iterators
+
+
 Python Iterators
 
 An iterator is an object that contains a countable number of values.
@@ -16,11 +21,17 @@ Lists, tuples, dictionaries, and sets are all iterable objects. They are iterabl
 All these objects have a iter() method which is used to get an iterator.
 
 '''
-
 # Return an iterator from a tuple, and print each value:
 mytuple = ("apple", "banana", "cherry")
 myit = iter(mytuple)
 
+
 print(next(myit))
 print(next(myit))
 print(next(myit))
+
+# probando que pasaba si invocaba de nuevo next()
+try:
+    print(next(myit))
+except StopIteration:
+    print("llegue al final de la iteracion")
