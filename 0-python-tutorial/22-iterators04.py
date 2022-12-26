@@ -4,7 +4,7 @@
 '''
 Python Iterators - Looping Through an Iterator - Part 2
 
-The for loop actually creates an iterator object and executes the next() method for each loop.
+The "for" loop actually creates an iterator object and executes the next() method for each loop.
 
 '''
 # Iterate the characters of a string:
