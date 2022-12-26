@@ -1,11 +1,14 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_scope.asp
+
 # Demo Python Scope - Naming Variables
 '''
-Naming Variables
+Python Scope - Naming Variables
 
-If you operate with the same variable name inside and outside of a function, Python will treat them as two separate variables, one available in the global scope (outside the function) and one available in the local scope (inside the function):
+If you operate with the same variable name inside and outside of a function, Python will treat them as 
+two separate variables, one available in the global scope (outside the function) and one available in 
+the local scope (inside the function):
 
 '''
-
 # The function will print the local x, and then the code will print the global x:
 x = 300
 
