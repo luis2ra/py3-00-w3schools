@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_datetime.asp
+
 # Demo Python Datetime - The strftime() Method
 '''
 The strftime() Method
@@ -39,4 +41,4 @@ import datetime
 x = datetime.datetime.now()
 
 print(x)
-print(x.strftime("%A"))
+print(x.strftime("%A"))  # Weekday, full version 

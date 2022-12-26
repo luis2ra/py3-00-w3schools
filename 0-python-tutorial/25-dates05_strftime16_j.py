@@ -1,4 +1,6 @@
-# Demo Python Datetime - The strftime() Method
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_datetime.asp
+
+# Demo Python Datetime - The strfime() Method
 '''
 The strftime() Method
 
@@ -39,4 +41,4 @@ import datetime
 x = datetime.datetime.now()
 
 print(x)
-print(x.strftime("%j"))
+print(x.strftime("%j"))  # Day number of year 001-366 
