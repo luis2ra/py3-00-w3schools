@@ -1,6 +1,8 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_inheritance.asp
+
 # Demo Python Inheritance - Add Properties
 '''
-Add Properties
+Python Inheritance - Add Properties (Part 1)
 
 '''
 # Create a class named Person, with firstname and lastname properties, and a printname method:
@@ -12,16 +14,16 @@ class Person:
     def printname(self):
         print(self.firstname, self.lastname)
 
-# Create a class named Student, which will inherit the properties and methods from the Person class:
+
+# Create a class named Student, add a property called "graduationyear":
 class Student(Person):
-    # Add the __init__() function to the Student class:
     def __init__(self, fname, lname):
-        # To keep the inheritance of the parent's __init__() function, add a call to the parent's __init__() function:
         super().__init__(fname, lname)
         # Add a property called graduationyear to the Student class:
         self.graduationyear = 2020
 
-# Now the Student class has the same properties and methods as the Person class.
+
+# create an instance of Student
 x = Student("Guido", "Van Rossum")
-x.printname()   # Usa el método printname heredado de la clase Person.
-print(x.graduationyear)
+x.printname()
+print(x.graduationyear)  # checking new property for Student class

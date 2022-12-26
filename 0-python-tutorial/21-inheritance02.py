@@ -1,8 +1,8 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_inheritance.asp
+
 # Demo Python Inheritance
 '''
-Create a Parent Class
-
-Any class can be a parent class, so the syntax is the same as creating any other class.
+Python Inheritance - Create a Parent Class
 
 
 Create a Child Class
@@ -19,6 +19,7 @@ class Person:
     def printname(self):
         print(self.firstname, self.lastname)
 
+
 # Create a class named Student, which will inherit the properties and methods from the Person class:
 class Student(Person):
     pass    # Note: Use the 'pass' keyword when you do not want to add any other properties or methods to the class.
@@ -26,4 +27,4 @@ class Student(Person):
 
 # Now the Student class has the same properties and methods as the Person class.
 x = Student("Mike", "Olsen")
-x.printname()   # Usa el método printname heredado de la clase Person.
+x.printname()  # Usa el método printname heredado de la clase Person.
