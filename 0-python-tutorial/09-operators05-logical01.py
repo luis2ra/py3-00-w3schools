@@ -12,7 +12,7 @@ or 	        Returns True if one of the statements is true 	                x < 5
 not 	    Reverse the result, returns False if the result is true 	    not(x < 5 and x < 10)
 
 '''
-
+# Example:
 x = 5
 
 print(x > 3 and x < 10)         # returns True because 5 is greater than 3 AND 5 is less than 10

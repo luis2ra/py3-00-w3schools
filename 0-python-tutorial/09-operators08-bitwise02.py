@@ -17,7 +17,7 @@ Operator 	Name 	                Description
                                     from the left, and let the rightmost bits fall off
 
 '''
-
+# Example:
 a = 5
 b = 3
 c = 2

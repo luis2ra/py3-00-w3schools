@@ -15,7 +15,6 @@ Check if NOT
 To check if a certain phrase or character is NOT present in a string, we can use the keyword 'not in'.
 
 '''
-
 # Check if "free" is present in the following text:
 txt = "The best things in life are free!"
 print("original: ", txt)

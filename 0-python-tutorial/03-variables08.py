@@ -1,8 +1,9 @@
 # @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_variables_names.asp
 
-# Demo python variables - Multi Words Variable Names
+# Demo Python Variables - Multi Words Variable Names
 '''
-Multi Words Variable Names
+Python Variables - Multi Words Variable Names
+
 
 Variable names with more than one word can be difficult to read.
 

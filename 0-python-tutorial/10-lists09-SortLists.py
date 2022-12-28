@@ -8,6 +8,7 @@ Python Lists - Sort Lists
 Sort List Alphanumerically
 
 List objects have a sort() method that will sort the list alphanumerically, ascending, by default:
+
 '''
 # Sort the list alphabetically:
 thislist = ["orange", "mango", "kiwi", "pineapple", "banana"]
@@ -25,6 +26,7 @@ print(thislist2)
 Sort Descending
 
 To sort descending, use the keyword argument reverse = True:
+
 '''
 # Sort the list descending:
 thislist3 = ["orange", "mango", "kiwi", "pineapple", "banana"]
@@ -44,6 +46,7 @@ Customize Sort Function
 You can also customize your own function by using the keyword argument key = function.
 
 The function will return a number that will be used to sort the list (the lowest number first):
+
 '''
 # Sort the list based on how close the number is to 50:
 def myfunc(n):
@@ -62,6 +65,7 @@ By default the sort() method is case sensitive, resulting in all capital letters
 Luckily we can use built-in functions as key functions when sorting a list.
 
 So if you want a case-insensitive sort function, use str.lower as a key function.
+
 '''
 # Case sensitive sorting can give an unexpected result:
 thislist6 = ["banana", "Orange", "Kiwi", "cherry"]

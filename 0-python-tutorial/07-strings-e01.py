@@ -20,7 +20,6 @@ The format() method takes the passed arguments, formats them,
 and places them in the string where the placeholders {} are.
 
 '''
-
 # Use the format() method to insert numbers into strings:
 age = 36
 txt = "My name is John, and I am {}"

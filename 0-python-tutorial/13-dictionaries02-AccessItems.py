@@ -8,6 +8,7 @@ Python Dictionaries - Access Dictionary Items
 Accessing Items
 
 You can access the items of a dictionary by referring to its key name, inside square brackets:
+
 '''
 # Get the value of the "model" key:
 thisdict1 =	{
@@ -30,9 +31,11 @@ print(x)
 
 
 '''
+
 Get Keys
 
 The keys() method will return a list of all the keys in the dictionary.
+
 '''
 # Get a list of the keys:
 thisdict3 = {
@@ -57,9 +60,11 @@ print(y)  # after the change
 
 
 '''
+
 Get Values
 
 The values() method will return a list of all the values in the dictionary.
+
 '''
 # Get a list of the values:
 thisdict4 = {
@@ -98,9 +103,11 @@ print(y3)  # after the change
 
 
 '''
+
 Get Items
 
 The items() method will return each item in a dictionary, as tuples in a list.
+
 '''
 # Get a list of the key:value pairs
 thisdict5 = {
@@ -142,6 +149,7 @@ print(x5)  # after the change
 
 
 '''
+
 Check if Key Exists
 
 To determine if a specified key is present in a dictionary use the 'in' keyword.

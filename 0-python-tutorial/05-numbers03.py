@@ -9,7 +9,7 @@ Float, or "floating point number" is a number, positive or negative, containing 
 Float can also be scientific numbers with an "e" to indicate the power of 10.
 
 '''
-
+# Floats:
 x = 35e3
 y = 12E4
 z = -87.7e100

@@ -1,8 +1,9 @@
 # @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_variables_names.asp
 
-# Demo python variables - Variable Names
+# Demo Python Variables - Variable Names
 '''
-Variable Names
+Python Variables - Variable Names
+
 
 A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume). Rules for Python variables:
 

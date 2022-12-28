@@ -12,7 +12,6 @@ You can assign a multiline string to a variable by using three quotes.
 Note: in the result, the line breaks are inserted at the same position as in the code.
 
 '''
-
 # You can use three double quotes: 
 a = """Lorem ipsum dolor sit amet,
 consectetur adipiscing elit,

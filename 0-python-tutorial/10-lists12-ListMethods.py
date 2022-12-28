@@ -24,6 +24,7 @@ reverse()	Reverses the order of the list
 sort()		Sorts the list
 
 '''
+# Example:
 strs = ['0', '1', '2']
 print([int(x) for x in strs])
 print(list(map(int, strs)))

@@ -1,4 +1,5 @@
 # @author: https://github.com/luis2ra from https://www.w3schools.com/python/default.asp
+
 '''
 What is Python?
 
@@ -47,5 +48,5 @@ Python Syntax compared to other programming languages
 often use curly-brackets for this purpose.
 
 '''
-
+# Demo of Hello World
 print("Hello, World!!!")

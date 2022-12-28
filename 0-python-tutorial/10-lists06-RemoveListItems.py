@@ -42,6 +42,7 @@ Remove Specified Index using 'del' keyword
 The del keyword also removes the specified index.
 
 The del keyword can also delete the list completely.
+
 '''
 # Remove the first item:
 thislist2 = ["yellow", "blue", "red", "green", "gray"]
@@ -63,6 +64,7 @@ Clear the List
 The clear() method empties the list.
 
 The list still remains, but it has no content.
+
 '''
 # Clear the list content:
 lista = ["manzanas", "peras", "fresas", "uvas"]

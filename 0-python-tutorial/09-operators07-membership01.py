@@ -13,7 +13,7 @@ not in 	    Returns True if a sequence with the specified               x not in
             value is not present in the object 	                        
 
 '''
-
+# Example:
 x = ["apple", "banana"]
 
 print("banana" in x)            # returns True because a sequence with the value "banana" is in the list

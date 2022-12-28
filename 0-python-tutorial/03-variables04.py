@@ -1,8 +1,9 @@
 # @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_variables.asp
 
-# Demo python variables - Get the Type
+# Demo Python Variables - Get the Type
 '''
-Get the Type
+Python Variables - Get the Type
+
 
 You can get the data type of a variable with the type() function.
 

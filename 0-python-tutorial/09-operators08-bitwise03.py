@@ -7,7 +7,7 @@ Python Operators - Python Bitwise Operators
 ~  	        NOT 	                Inverts all the bits
 
 '''
-
+# Example:
 a = 60
 b = 13
 

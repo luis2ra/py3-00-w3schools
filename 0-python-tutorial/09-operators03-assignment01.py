@@ -22,7 +22,6 @@ Operator 	Example 	    Same As
 <<= 	    x <<= 3 	    x = x << 3
 
 '''
-
 # Uso del operador =
 x = y = z = 7
 print("Uso de operador = ", x)

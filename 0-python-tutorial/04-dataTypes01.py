@@ -25,7 +25,6 @@ Getting the Data Type
 You can get the data type of any object by using the type() function.
 
 '''
-
 # You can get the data type of any object by using the type() function:
 x = 5
 print(x)

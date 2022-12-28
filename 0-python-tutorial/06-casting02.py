@@ -19,7 +19,6 @@ float() - constructs a float number from an integer literal, a float literal or 
 str() - constructs a string from a wide variety of data types, including strings, integer literals and float literals
 
 '''
-
 # Floats:
 x = float(1)     # x will be 1.0
 y = float(2.8)   # y will be 2.8

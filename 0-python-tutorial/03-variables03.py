@@ -1,8 +1,9 @@
 # @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_variables.asp
 
-# Demo python variables - Casting
+# Demo Python Variables - Casting
 '''
-Casting
+Python Variables - Casting
+
 
 If you want to specify the data type of a variable, this can be done with casting.
 

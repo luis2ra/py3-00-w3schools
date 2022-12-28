@@ -16,7 +16,6 @@ Operator 	Name 	            Example
 // 	        Floor division 	    x // y
 
 '''
-
 # Variables
 x = 5
 y = 3

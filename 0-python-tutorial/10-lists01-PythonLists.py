@@ -17,7 +17,6 @@ Choosing the right type for a particular data set could mean retention of meanin
 it could mean an increase in efficiency or security.
 
 '''
-
 # Create a List:
 thislist = ["apple", "banana", "cherry"]
 print(thislist)

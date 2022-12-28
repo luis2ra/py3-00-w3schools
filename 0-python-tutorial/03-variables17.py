@@ -1,8 +1,9 @@
 # @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_variables_global.asp
 
-# Demo python variables - Global Variables
+# Demo Python Variables - Global Variables
 '''
-Global Variables
+Python Variables - Global Variables
+
 
 Variables that are created outside of a function (as in all of the examples above) are known as global variables.
 
@@ -13,7 +14,6 @@ can only be used inside the function. The global variable with the same name wil
 global and with the original value.
 
 '''
-
 # Create a variable inside a function, with the same name as the global variable:
 x = "awesome"
 

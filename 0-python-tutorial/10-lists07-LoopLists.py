@@ -8,6 +8,7 @@ Python Lists - Loop Lists
 Loop Through a List
 
 You can loop through the list items by using a for loop:
+
 '''
 # Print all items in the list, one by one:
 print('Print all items in the list, one by one:')
@@ -22,6 +23,7 @@ Loop Through the Index Numbers
 
 You can also loop through the list items by referring to their index number.
 Use the range() and len() functions to create a suitable iterable.
+
 '''
 # Print all items by referring to their index number:
 print('Print all items by referring to their index number:')
@@ -40,6 +42,7 @@ Use the len() function to determine the length of the list, then start at 0 and
 loop your way through the list items by refering to their indexes.
 
 Remember to increase the index by 1 after each iteration.
+
 '''
 # Print all items, using a while loop to go through all the index numbers
 print('Print all items, using a while loop to go through all the index numbers')
@@ -55,6 +58,7 @@ print('')
 Looping Using List Comprehension
 
 List Comprehension offers the shortest syntax for looping through lists:
+
 '''
 # A short hand for loop that will print all items in a list:
 thislist = ["apple", "banana", "cherry"]

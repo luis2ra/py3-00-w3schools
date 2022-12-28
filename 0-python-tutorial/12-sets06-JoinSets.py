@@ -32,6 +32,7 @@ print(set4)
 
 
 '''
+
 Keep ONLY the Duplicates
 
 The intersection_update() method will keep only the items that are present in both sets.
@@ -56,6 +57,7 @@ print(z)
 
 
 '''
+
 Keep All, But NOT the Duplicates
 
 The symmetric_difference_update() method will keep only the elements that are NOT present in both sets.

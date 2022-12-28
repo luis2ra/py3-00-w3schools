@@ -10,6 +10,7 @@ Add Items
 Once a set is created, you cannot change its items, but you can add new items.
 
 To add one item to a set use the add() method.
+
 '''
 # Add an item to a set, using the add() method:
 thisset1 = {"apple", "banana", "cherry"}
@@ -18,9 +19,11 @@ print(thisset1)
 
 
 '''
+
 Add Sets
 
 To add items from another set into the current set, use the update() method.
+
 '''
 # Add elements from tropical into thisset:
 thisset2 = {"apple", "banana", "cherry"}
@@ -32,9 +35,11 @@ print(thisset2)
 
 
 '''
+
 Add Any Iterable
 
 The object in the update() method does not have to be a set, it can be any iterable object (tuples, lists, dictionaries etc.).
+
 '''
 # Add elements of a list to at set:
 thisset3 = {"apple", "banana", "cherry"}

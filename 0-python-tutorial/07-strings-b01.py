@@ -14,7 +14,6 @@ Specify the start index and the end index, separated by a colon, to return a par
 Note: The first character has index 0.
 
 '''
-
 # Get the characters from position 2 to position 5 (not included):
 b = "Hello, World!"
 print("string original: ", b)

@@ -17,6 +17,7 @@ A set is a collection which is unordered, unchangeable*, and unindexed.
 * Note: Set items are unchangeable, but you can remove items and add new items.
 
 Sets are written with curly brackets.
+
 '''
 # Create a Set:
 thisset1 = {"apple", "banana", "cherry"}
@@ -24,6 +25,7 @@ print(thisset1)  # Note: Sets are unordered, so you cannot be sure in which orde
 
 
 '''
+
 Set Items
 
 Set items are unordered, unchangeable, and do not allow duplicate values.
@@ -47,15 +49,18 @@ Duplicates Not Allowed
 
 Sets cannot have two items with the same value.
 '''
+
 # Duplicate values will be ignored:
 thisset2 = {"apple", "banana", "cherry", "apple"}
 print(thisset2)
 
 
 '''
+
 Get the Length of a Set
 
 To determine how many items a set has, use the len() function.
+
 '''
 # Get the number of items in a set:
 thisset3 = {"apple", "banana", "cherry"}
@@ -63,9 +68,11 @@ print(len(thisset3))
 
 
 '''
+
 Set Items - Data Types
 
 Set items can be of any data type:
+
 '''
 # String, int and boolean data types:
 set1 = {"apple", "banana", "cherry"}
@@ -79,12 +86,15 @@ print(set3)
 set4 = {"abc", 34, True, 40, "male"}
 print(set4)
 
+
 '''
+
 type()
 
 From Python's perspective, sets are defined as objects with the data type 'set':
 
 <class 'set'>
+
 '''
 # What is the data type of a set?
 myset = {"apple", "banana", "cherry"}
@@ -92,9 +102,11 @@ print(type(myset))
 
 
 '''
+
 The set() Constructor
 
 It is also possible to use the set() constructor to make a set.
+
 '''
 # Using the set() constructor to make a set:
 thisset4 = set(("apple", "banana", "cherry")) # note the double round-brackets

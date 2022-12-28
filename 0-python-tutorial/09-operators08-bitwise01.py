@@ -17,7 +17,7 @@ Operator 	Name 	                Description
                                     from the left, and let the rightmost bits fall off
 
 '''
-
+# Example:
 compara1 = 1 | 1
 compara2 = 1 | 0
 compara3 = 0 | 1

@@ -8,6 +8,7 @@ Python Dictionaries - Nested Dictionaries
 Nested Dictionaries
 
 A dictionary can contain dictionaries, this is called nested dictionaries.
+
 '''
 # Create a dictionary that contain three dictionaries:
 myfamily = {
@@ -30,6 +31,7 @@ print('my family: ', myfamily)
 '''
 
 Or, if you want to add three dictionaries into a new dictionary.
+
 '''
 # Create three dictionaries, than create one dictionary that will contain the other three dictionaries:
 child1 = {

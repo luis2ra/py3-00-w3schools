@@ -13,9 +13,7 @@ Any number is True, except 0.
 Any list, tuple, set, and dictionary are True, except empty ones.
 
 '''
-
 # The following will return True:
-
 print( bool("abc") )
 print( bool(123) )
 print( bool(["apple", "cherry", "banana"]) )    # list

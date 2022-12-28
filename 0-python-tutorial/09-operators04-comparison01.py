@@ -15,8 +15,7 @@ Operator 	Name 	                        Example
 <= 	        Less than or equal to 	        x <= y
 
 '''
-
-
+# Example:
 x = 5
 y = 3
 
