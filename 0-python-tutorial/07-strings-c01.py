@@ -1,6 +1,9 @@
-# Demo Python Strings - String Methods
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_strings_modify.asp
+
+# Demo Python Strings - Modify Strings
 '''
-String Methods
+Python Strings - Modify Strings
+
 
 Python has a set of built-in methods that you can use on strings.
 
@@ -28,4 +31,10 @@ print(a.replace("H", "J"))
 # The split() method splits the string into substrings if it finds instances of the separator:
 a = "Hello, World!"
 print("string original: ", a)
-print(a.split(",")) # returns ['Hello', ' World!']
+print(a.split(","))  # returns ['Hello', ' World!']
+
+'''
+Split String
+
+The split() method returns a list where the text between the specified separator becomes the list items.
+'''

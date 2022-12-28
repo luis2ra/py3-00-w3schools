@@ -1,21 +1,13 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_numbers.asp
+
 # Demo Python Numbers - Complex
 '''
-Python Numbers
+Python Numbers - Complex
 
-
-There are three numeric types in Python:
-
-* int
-* float
-* complex
-
-Variables of numeric types are created when you assign a value to them.
-
-To verify the type of any object in Python, use the type() function.
+Complex numbers are written with a "j" as the imaginary part.
 
 '''
-# Complex numbers are written with a "j" as the imaginary part:
-
+# Complex:
 x = 3+5j
 y = 5j
 z = -5j

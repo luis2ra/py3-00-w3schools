@@ -1,8 +1,9 @@
 # @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_variables_multiple.asp
 
-# Demo python variables - Assign Multiple Values
+# Demo Python Variables - Assign Multiple Values
 '''
-Many Values to Multiple Variables
+Python Variables - Many Values to Multiple Variables
+
 
 Python allows you to assign values to multiple variables in one line.
 

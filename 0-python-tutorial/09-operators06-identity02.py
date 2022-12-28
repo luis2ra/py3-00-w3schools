@@ -1,6 +1,8 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_operators.asp
+
 # Demo Python Operators
 '''
-Python Identity Operators
+Python Operators - Python Identity Operators
 
 Identity operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location:
 
@@ -9,7 +11,7 @@ is  	    Returns True if both variables are the same object 	        x is y
 is not 	    Returns True if both variables are not the same object 	    x is not y
 
 '''
-
+# Example:
 x = ["apple", "banana"]
 y = ["apple", "banana"]
 z = x

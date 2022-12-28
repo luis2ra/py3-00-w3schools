@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_arrays.asp
+
 # Demo Python Arrays - The Length of an Array
 '''
 Removing Array Elements

@@ -1,6 +1,8 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_operators.asp
+
 # Demo Python Operators
 '''
-Python Membership Operators
+Python Operators - Python Membership Operators
 
 Membership operators are used to test if a sequence is presented in an object:
 
@@ -11,7 +13,7 @@ not in 	    Returns True if a sequence with the specified               x not in
             value is not present in the object 	                        
 
 '''
-
+# Example:
 x = ["apple", "banana"]
 
 print("banana" in x)            # returns True because a sequence with the value "banana" is in the list
@@ -19,4 +21,4 @@ print("banana" in x)            # returns True because a sequence with the value
 
 y = ["0", "1"]
 
-print("1" in y) 
+print("1" in y)

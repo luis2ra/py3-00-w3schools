@@ -1,13 +1,13 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_conditions.asp
+
 # Demo Python If ... Else - Nested If
 '''
 Nested If
 
-You can have if statements inside if statements, this is called nested if statements.
+You can have "if" statements inside "if" statements, this is called nested "if" statements.
 
 '''
-
 # Example
-
 x = 41
 
 if x > 10:

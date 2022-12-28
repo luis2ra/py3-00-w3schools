@@ -1,8 +1,9 @@
 # @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_variables_global.asp
 
-# Demo python variables - The global Keyword
+# Demo Python Variables - The global Keyword
 '''
-The global Keyword
+Python Variables - The global Keyword
+
 
 Normally, when you create a variable inside a function, that variable is local, and can only be used inside that function.
 

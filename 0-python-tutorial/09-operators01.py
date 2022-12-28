@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_operators.asp
+
 # Demo Python Operators
 '''
 Python Operators
@@ -15,3 +17,4 @@ Python divides the operators in the following groups:
 *    Bitwise operators
 
 '''
+print()

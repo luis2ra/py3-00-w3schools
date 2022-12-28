@@ -1,5 +1,10 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_scope.asp
+
 # Demo Python Scope
 '''
+Python Scope - Python Scope
+
+
 A variable is only available from inside the region it is created. This is called scope.
 
 Local Scope
@@ -19,7 +24,6 @@ If you need to create a global variable, but are stuck in the local scope, you c
 The global keyword makes the variable global.
 
 '''
-
 # A variable created inside a function is available inside that function:
 def myfunc():
     x = 300

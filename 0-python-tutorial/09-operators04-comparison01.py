@@ -1,6 +1,8 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_operators.asp
+
 # Demo Python Operators
 '''
-Python Comparison Operators
+Python Operators - Python Comparison Operators
 
 Comparison operators are used to compare two values:
 
@@ -13,8 +15,7 @@ Operator 	Name 	                        Example
 <= 	        Less than or equal to 	        x <= y
 
 '''
-
-
+# Example:
 x = 5
 y = 3
 

@@ -1,13 +1,13 @@
 # @author: https://github.com/luis2ra from https://www.w3schools.com/python/python_variables.asp
 
-# Demo python variables - Single or Double Quotes?
+# Demo Python Variables - Single or Double Quotes?
 '''
-Single or Double Quotes?
+Python Variables - Single or Double Quotes?
+
 
 String variables can be declared either by using single or double quotes.
 
 '''
-
 # String variables can be declared either by using single or double quotes:
 x = "John"
 print(x)
