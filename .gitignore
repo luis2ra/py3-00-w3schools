@@ -5,3 +5,6 @@ __pycache__/
 
 # Configuration Folder of Work Enviroment
 .vscode/
+
+# Environment Variables
+.envrc
