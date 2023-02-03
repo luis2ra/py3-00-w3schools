@@ -20,6 +20,5 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 
 
-
 '''
 print("Django Insert Data")
