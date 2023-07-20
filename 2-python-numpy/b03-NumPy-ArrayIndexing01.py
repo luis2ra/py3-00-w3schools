@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/numpy/numpy_array_indexing.asp
+
 '''
 NumPy Array Indexing
 

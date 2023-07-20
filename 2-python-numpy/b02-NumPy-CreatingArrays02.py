@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/numpy/numpy_creating_arrays.asp
+
 '''
 Dimensions in Arrays
 
@@ -57,4 +59,3 @@ arr3 = np.array([ [[1, 2, 3], [4, 5, 6]], [[1, 2, 3], [4, 5, 6]] ])
 print(arr3)
 print(type(arr3))
 print('Dimensión: ', arr3.ndim)
-
