@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/pandas/pandas_dataframes.asp
+
 '''
 Pandas DataFrames
 
@@ -8,9 +10,9 @@ As you can see from the result above (in the previous practice), the DataFrame i
 
 Pandas use the loc attribute to return one or more specified row(s)
 
-
 '''
 import pandas as pd
+
 
 data = {
     "calories": [420, 380, 390],

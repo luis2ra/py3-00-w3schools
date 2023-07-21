@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/pandas/pandas_series.asp
+
 '''
 Pandas Series
 
@@ -10,12 +12,15 @@ It is a one-dimensional array holding data of any type.
 
 Labels
 
-If noting else is specified, the values are labeled with their index number. First value has index 0, second value has index 1 etc.
+If noting else is specified, the values are labeled with their index number. First value has index 0, 
+second value has index 1 etc.
+
 This label can be used to access a specified value.
 
 
 '''
 import pandas as pd
+
 
 a = [1, 7, 2]
 

@@ -1,8 +1,6 @@
+# @author: https://github.com/luis2ra from https://pandas.pydata.org/docs/user_guide/io.html#excel-files
+
 '''
-
-https://pandas.pydata.org/docs/user_guide/io.html#excel-files
-
-
 Excel files
 
 
@@ -19,12 +17,8 @@ Generally the semantics are similar to working with csv data.
 '''
 import pandas as pd
 
+
 # Load a comma separated file (CSV file) into a DataFrame:
-df = pd.read_excel('Model-load-template.xlsx', na_values=["NA"], usecols="A:G")
+df = pd.read_excel('2-python-pandas/Model-load-template.xlsx', na_values=["NA"], usecols="A:G")
 
-row = df.loc[0] 
-
-print(df.loc[[0]])
-for item in row:
-    print(item)
-
+print(df)

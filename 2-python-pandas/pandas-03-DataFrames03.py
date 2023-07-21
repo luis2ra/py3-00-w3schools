@@ -1,3 +1,5 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/python/pandas/pandas_dataframes.asp
+
 '''
 Pandas DataFrames
 
@@ -13,6 +15,7 @@ Use the named index in the loc attribute to return the specified row(s).
 
 '''
 import pandas as pd
+
 
 data = {
     "calories": [420, 380, 390],
