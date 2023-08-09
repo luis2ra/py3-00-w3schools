@@ -18,10 +18,10 @@ Operator 	Name 	                Description
 
 '''
 # Example:
-compara1 = 1 | 1
-compara2 = 1 | 0
-compara3 = 0 | 1
-compara4 = 0 | 0
+compara1 = 1 & 1
+compara2 = 1 & 0
+compara3 = 0 & 1
+compara4 = 0 & 0
 print("Uso de operador & ", compara1)
 print("Uso de operador & ", compara2)
 print("Uso de operador & ", compara3)
