@@ -1,12 +1,33 @@
 <!DOCTYPE html>
 <html>
 <body>
+    {% include "mymenu.html" with me="LUIS-LOCAL" sponsor="W3SCHOOLS" %}
+
+    <h1>Hello {{ firstname }}, how are you?</h1>
 
     {% for x in fruits %}
-        <h1>{{ x }}</h1>
+        <h2>{{ x }}</h2>
     {% endfor %}
 
     <p>In views.py you can see what the fruits variable looks like.</p>
 
+    {% with new_variable="Tobias" %}
+        <h1>Hello {{ new_variable }}!</h1>
+    {% endwith %}
+
+    {% if greeting == 1 %}
+        <h1>Hello</h1>
+    {% elif greeting == 2 %}
+        <h1>Welcome</h1>
+    {% else %}
+        <h1>Goodbye</h1>
+    {% endif %}
+    
+    <h1>Welcome Everyone {# Esto es otra forma de agregar comentario #}</h1>
+    {% comment %}
+        <h1>Welcome ladies and gentlemen</h1>
+    {% endcomment %}
+
+    {% include 'footer.html' %} 
 </body>
 </html>
