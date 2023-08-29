@@ -35,3 +35,22 @@ def testing(request):
         'greeting': 5,
     }
     return HttpResponse(template.render(context, request))
+
+
+def testing2(request):  # For Querysets section
+    mydata = Member.objects.all()
+    
+    ### The values() Method allows return each object as a python dictionary.
+    # mydata = Member.objects.all().values()
+    
+    ### esta linea devuelve <QuerySet [('Emil',), ('Tobias',), ('Linus',), ('Lene',), ('Stalikken',)]>
+    # mydata = Member.objects.values_list("firstname")  
+    
+    ### Return Specific Rows using filter
+    # mydata = Member.objects.filter(firstname='Emil').values()
+
+    template = loader.get_template('template2.html')
+    context = {
+        'mymembers': mydata,
+    }
+    return HttpResponse(template.render(context, request))
